@@ -1,0 +1,29 @@
+
+h4{
+    display: inline;
+    margin: 40px 10px;
+   
+}
+.print
+{
+    text-align: justify;
+    margin: 20px 400px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 35px;
+    
+}
+.print1
+{
+    text-align: justify;
+    margin: 20px 20px 20px 400px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 35px;
+    display: inline;
+    border: 2px solid black;
+}
+[target="_blank"]
+{
+    color: rgb(28, 151, 131);
+}
+
+
